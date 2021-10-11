@@ -1,6 +1,4 @@
-# Project exclude paths
 /target/
-# Default ignored files
 /shelf/
 /workspace.xml
 Thumbs.db*
